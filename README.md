@@ -1,2 +1,10 @@
 # Scripts-Infraestrutura
-Repositório para armazenados scripts  utilizados para automatizar tarefas administrativas em servidores Windows.
+
+## Objetivo
+Repositório tem como objetivo armazenar scripts  utilizados para automatizar tarefas administrativas em servidores Windows.
+
+## Autor
+Adryelle Fonseca Sousa
+
+## Data de criação
+10/07/2026

@@ -7,4 +7,4 @@ Repositório para armazenar scripts utilizados para automatizar tarefas administ
 Adryelle Fonseca 
 
 ## Data
-10/07/2026
+10/07/2026 
